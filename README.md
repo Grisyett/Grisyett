@@ -45,6 +45,24 @@
   </a>
 </div>
 
+---
+
+### Proyectos colaborativos
+
+Aquí presento algunos de los proyectos en los que tuve la oportunidad de colaborar durante mi participación en el **Samsung Innovation Campus**:
+
+[![NeuroMe](https://img.shields.io/badge/NeuroMe%20-Ver%20Repo-blue?style=for-the-badge)](URL_del_repositorio_1)
+<br>
+...
+
+<br>
+
+[![NeuroCachapa](https://img.shields.io/badge/NeuroCachapa%20-Ver%20Repo-brightgreen?style=for-the-badge)](URL_del_repositorio_2)
+<br>
+...
+
+---
+
 ###
 
 <h5 align="center">🌱 Github Status</h5>
