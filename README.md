@@ -1,10 +1,9 @@
 <br clear="both">
 
+###
 <h2 align="left">¡Cri cri cri! Me dicen Griyo.</h2>
 
-###
-
-<h5 align="left">💫 Acerca de mí:</h5>
+<h3 align="left">💫 Acerca de mí:</h3>
 
 ###
 
@@ -66,7 +65,7 @@ Modelo de aprendizaje profundo para reconocimiento de señas manuales en tiempo 
 
 ###
 
-<h5 align="center">🌱 Github Status</h5>
+<h3 align="center">🌱 Github Status</h3>
 
 ###
 <div align="center">
