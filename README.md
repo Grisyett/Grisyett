@@ -51,7 +51,7 @@
 
 Aquí presento algunos de los proyectos en los que tuve la oportunidad de colaborar durante mi participación en el **Samsung Innovation Campus**:
 
-[![NeuroMe](https://img.shields.io/badge/NeuroMe%20-Ver%20Repo-blue?style=for-the-badge)](URL_del_repositorio_1)
+[![NeuroMe](https://img.shields.io/badge/NeuroMe%20-Ver%20Repo-blue?style=for-the-badge)](https://github.com/ferhel/Neuro)
 <br>
 ...
 
