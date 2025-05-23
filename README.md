@@ -57,9 +57,9 @@ Aquí presento algunos de los proyectos en los que tuve la oportunidad de colabo
 
 <br>
 
-[![NeuroCachapa](https://img.shields.io/badge/NeuroCachapa%20-Ver%20Repo-brightgreen?style=for-the-badge)](URL_del_repositorio_2)
+[![NeuroCachapa](https://img.shields.io/badge/NeuroCachapa%20-Ver%20Repo-brightgreen?style=for-the-badge)](https://github.com/ferhel/NeuroMe)
 <br>
-...
+Modelo de aprendizaje profundo para reconocimiento de señas manuales en tiempo real. Incluye 25 clases de letras y señas especiales.
 
 ---
 
