@@ -53,7 +53,7 @@ Aquí presento algunos de los proyectos en los que tuve la oportunidad de colabo
 
 [![NeuroMe](https://img.shields.io/badge/NeuroMe%20-Ver%20Repo-blue?style=for-the-badge)](https://github.com/ferhel/Neuro)
 <br>
-...
+Programa de evaluación neurológica NeuroMe, una plataforma basada en Kivy diseñada para la investigación de la enfermedad de Alzheimer y la gestión clínica de pacientes.
 
 <br>
 
