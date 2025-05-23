@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🌱 Estudiante de Informática con base en limpieza y organización de datos, y habilidades en desarrollo web.<br>💬 Enfoco mis habilidades principalmente en el lenguaje de programación Python.<br>⚡ Tengo interés en la Robotica, Ciencia de Datos y el Desarrollo de Software.<br>✨ Soy una combinación de artes + ciencias.</p>
+<p align="left">🌱 Estudiante de Informática con base en limpieza y organización de datos, y habilidades en desarrollo web.<br>💬 Me enfoco principalmente en el lenguaje de programación Python.<br>⚡ Tengo interés en la Robotica, Ciencia de Datos y el Desarrollo de Software.<br>✨ Soy una combinación de artes + ciencias.</p>
 
 ###
 
