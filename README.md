@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">🌱 Estudiante de Informática con base en limpieza - preprocesamiento de datos y principios de desarrollo web.<br>💬 Me enfoco principalmente en el lenguaje de programación Python.<br>⚡ Tengo interés en la Robotica, Ciencia de Datos y el Desarrollo de Software.<br>✨ Soy una combinación de artes + ciencias.</p>
+<p align="left">🌱 Estudiante de Informática con base en limpieza - preprocesamiento de datos y principios de desarrollo web.<br>⚡ Tengo interés en la Robotica, Ciencia de Datos y el Desarrollo de Software.<br>✨ Soy una combinación de artes + ciencias.</p>
 
 ###
 
